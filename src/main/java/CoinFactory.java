@@ -1,5 +1,5 @@
 public class CoinFactory {
-    public static Coin getCoinInstance(Coin coin){
+    public static Coin getCoinInstance(Coins coin){
         switch (coin){
             case USD:
                 return new USD();
