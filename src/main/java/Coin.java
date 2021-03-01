@@ -3,6 +3,4 @@ public abstract class Coin implements ICalculate{
 
     @Override
     public abstract double calculate(double value);
-
-    //public abstract double calcualte(double input);
 }
