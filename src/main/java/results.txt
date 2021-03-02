@@ -1,3 +1,5 @@
 1000.0 , Dollar to Shekel
 20000.0 , Shekel to Dollar
 3000.0 , Euro to Shekel
+1000.0 , Dollar to Shekel
+3000.0 , Euro to Shekel
