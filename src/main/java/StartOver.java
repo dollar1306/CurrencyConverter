@@ -10,7 +10,13 @@ public class StartOver {
         String choice = scan.next();
          if (choice.equalsIgnoreCase("y")) {
              return true;
-         } else
+         } else if(choice.equalsIgnoreCase("n")) {
              return false;
+         }else
+         {
+             System.out.println("Wrong input try again");
+             return startOver();
+         }
+
     }
 }
